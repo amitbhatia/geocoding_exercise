@@ -41,7 +41,7 @@ This should run all the assertions given in the file for testing the google maps
 
 12.) test_components_filter: Test the components api that geocodes with additional parameters
 
-Things To Do:
+#Things To Do:
 
 1.) Parametrize the tests to give values from a File
 
